@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+}
+
+.BLOG{
+  border: 2px solid brown;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 20px;
+  box-shadow: 10px 5px 5px rgb(58, 59, 41);
+  text-align: center;
+
+}
+
+.decoration{
+  text-decoration: underline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.image{
+  height: 400px;
+  background-image: url("rifat.jpg");
+  /* background-image: url('../style/rifat.jpg'); */
+ 
+  /* background-image: url('../'); */
+  /* image-resolution: var(); */
+  background-size: 300px;
+  background-repeat: no-repeat;
+}
